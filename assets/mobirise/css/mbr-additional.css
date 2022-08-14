@@ -703,3 +703,27 @@ a {
 .cid-teuRIkfhuK .mbr-section-btn {
   color: #fafafa;
 }
+.cid-tevyfBHplJ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/4k-space-wallpaper-6.jpg");
+}
+.cid-tevyfBHplJ .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.6;
+}
+.cid-tevyfBHplJ form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-tevyfBHplJ form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-tevyfBHplJ form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-tevyfBHplJ .mbr-section-title {
+  color: #ffffff;
+}
