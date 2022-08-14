@@ -682,9 +682,6 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-teuRIkfhuK {
-  background-image: url("../../../assets/images/4k-space-wallpaper-6.jpg");
-}
 .cid-teuRIkfhuK .mbr-fallback-image.disabled {
   display: none;
 }
@@ -696,6 +693,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+  background-image: url("../../../assets/images/4k-space-wallpaper-6.jpg");
 }
 .cid-teuRIkfhuK .mbr-section-title {
   text-align: left;
